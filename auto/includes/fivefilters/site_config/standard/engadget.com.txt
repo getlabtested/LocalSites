@@ -1,0 +1,6 @@
+title: //h4[@class='post_title']
+strip: //div[@class='engadget_hdr']
+strip: //div[@class='post_content_types']
+strip: //div[@id='fb_container']
+strip: //h4[@class='post_title']
+test_url: http://www.engadget.com/2010/11/07/switched-on-the-ipadification-of-mac-os/

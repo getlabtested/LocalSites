@@ -1,0 +1,3 @@
+title: //h1
+body: //div[@class='entry']
+test_url: http://www.wired.com/reviews/2010/11/wdtv_livehub/

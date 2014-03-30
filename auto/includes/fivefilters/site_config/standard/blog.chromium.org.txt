@@ -1,0 +1,7 @@
+# Preview doesn't work with this URL?
+# URL is correct...
+
+title: substring-after(//title, ': ')
+body: //div[@class = 'post']
+strip_id_or_class: 'post-author'
+test_url: http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html

@@ -1,0 +1,2 @@
+strip: //ul[@id="bc"] | //div[@id="yrail"] | //div[@class="entry-keywords"] | //div[@class="entry-categories"] | //div[@class="socialUtils"] | //div[@id="footer"]
+test_url: http://www.newyorker.com/online/blogs/newsdesk/2011/01/eric-schmidt-google.html?mbid=social_twitter

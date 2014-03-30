@@ -1,0 +1,9 @@
+strip: //h3[@class = 'relatedarticles']
+strip: //ul[@class = 'relatedlinks']
+strip: //div[@id = 'topbar']
+strip: //p[@class = 'imagecredit']
+strip: //div[@id = 'breadcrumb']
+strip: //div[@class = 'pager']
+strip: //a[@class = 'lightbox']
+body: //div[@id= 'articlecontent']
+test_url: http://www.inc.com/magazine/20100701/theres-no-such-thing-as-a-wrong-number.html

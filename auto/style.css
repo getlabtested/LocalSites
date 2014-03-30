@@ -1,0 +1,319 @@
+body
+{
+	 background-image: url(nav/bg.gif);
+     background-repeat: repeat-x;
+	 background-position: top;
+	 background-color:#616161;
+	 margin:0px;
+}
+
+.multisite_td
+{
+   font-family: Candara;
+   color: #ffffff;
+   font-size: 10px;
+   text-decoration:none;
+}
+
+.multisite_select
+{
+  background-color:#a9a9a9;
+  color:#ffffff;
+  font-size: 10px;
+}
+
+.class_center
+{
+margin-left:auto;
+margin-right:auto;
+}
+
+.class_sidemenu
+{
+	top:20;
+	left:10; 
+	text-align:left;
+}
+
+.class_section_header
+{
+	font-size:14px;
+	width:530px;
+	text-align:left;
+	margin-left:auto;
+	margin-right:auto;
+	font-weight:600;
+	margin-left:auto;
+}
+
+.header_container
+{
+    width: 900px;
+	margin-left: auto ;
+    margin-right: auto ;
+}
+
+.header_container a:link, .header_container a:active, .header_container a:visited
+{
+   font-family: Candara;
+   color: #ffffff;
+   font-size: 13px;
+   text-decoration:none;
+}
+.header_container_ie a:link, .header_container a:active, .header_container a:visited
+{
+   font-family: Candara;
+   color: #ffffff;
+   font-size: 13px;
+   text-decoration:none;
+}
+
+.header_container a:hover
+{
+   text-decoration: underline;
+}
+.header_container_ie a:hover
+{
+   text-decoration: underline;
+}
+.jquery_header_link
+{
+   font-family: Candara;
+   color: #ffffff;
+   font-size: 13px;
+   text-decoration:none;
+   cursor:pointer;
+}
+
+.jquery_header_link a:hover
+{
+   text-decoration: underline;
+}
+
+.main_container
+{
+    font-family: Khmer UI;
+	color: #2f2e2e;
+	background-image: url(nav/bg_content_top.gif);
+    background-repeat: repeat-x;
+	background-position: top;
+	background-color:#ffffff;
+    width: 800px;
+	margin-left: auto ;
+    margin-right: auto ;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+
+}
+
+.main_container_ie
+{
+    font-family: Khmer UI;
+	color: #2f2e2e;
+	background-image: url(nav/bg_content_top.gif);
+    background-repeat: repeat-x;
+	background-position: top;
+	background-color:#ffffff;
+    width: 900px;
+	margin-left: 53px ;
+    margin-right: auto ;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 52px;
+
+}
+
+
+.footer_container
+{
+	 width: 900px;
+	background-image: url(nav/bg_content_bottom.gif);
+    background-repeat: repeat-x;
+	background-position: top;
+	font-size:10px;
+	 font-family: "Khmer UI","Sans-serif";
+	margin-left: auto ;
+    margin-right: auto ;
+	
+}
+.footer_container_ie
+{
+    width: 900px;
+	background-image: url(nav/bg_content_bottom.gif);
+    background-repeat: repeat-x;
+	background-position: top;
+	font-size:10px;
+	 font-family: "Khmer UI","Sans-serif";
+	margin-left: 53px ;
+    margin-right: auto ;
+}
+
+.button
+{
+    display:inline;
+	background-image: url(nav/btn_button.png);
+    background-repeat: no-repeat;
+	background-position: top;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	display: inline;
+	font-size:13px;
+	text-shadow: 0 1px #FFFFFF;
+	color: #000000;
+	text-decoration:none;
+	cursor:pointer;
+
+}
+a.button
+{
+	background-image: url(nav/btn_button.png);
+    background-repeat: no-repeat;
+	background-position: top;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:5px;
+	padding-bottom:9px;
+	display: inline;
+	font-size:13px;
+	text-shadow: 0 1px #FFFFFF;
+	color: #000000;
+	text-decoration:none;
+}
+
+#save_button
+{
+	background-image: url(nav/btn_button.png);
+    background-repeat: no-repeat;
+	background-position: top;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:5px;
+	padding-bottom:9px;
+	display: inline;
+	font-size:13px;
+	text-shadow: 0 1px #FFFFFF;
+	color: #000000;
+	text-decoration:none;
+}
+
+.button:hover
+{
+	background-image: url(nav/btn_button_hover.png);
+    background-repeat: no-repeat;
+	background-position: top;
+
+}
+
+li
+{
+    font-family: Khmer UI;
+    font-size:10px;
+	list-style-image: url(nav/bullet.jpg);
+	padding-left:20px;
+}
+
+.details_h1
+{
+   font-family: Candara;
+   color:#252525;
+   font-size:16px;
+}
+
+.details_text
+{
+   color:#2F2E2E;
+   font-size: 13px;
+}
+
+.details
+{
+   width:300;
+   padding-left:10px;
+   padding-right:16px;
+}
+
+a.product_links
+{
+   color:#252525;
+   font-size:12px;
+   text-decoration:none;
+}
+
+.matrix_text
+{
+   font-size:11px;
+   padding-bottom:7px;
+}
+
+input, select
+{
+	color:#aaaaaa;
+	max-width:350px;
+}
+
+input
+{
+  color:#aaaaaa;
+}
+
+#s_active
+{
+
+}
+
+.tab
+{
+	///background-color:#BEBBBB;
+	color:#000000;
+	width:390px;
+	font-size:10px;
+	letter-spacing: 3px;
+	//padding-right:5px;
+	//padding-left:5px;
+	padding-bottom:1px;
+	//padding-top:3px;
+	font-weight:300;
+	background-repeat:no-repeat;
+
+}
+
+.campaign
+{
+	width:530px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:5px; 
+	border: solid 5px #eeeeee;
+	word-break:break-all;
+}
+
+.info, .success, .warning, .error, .validation {
+border: 1px solid;
+margin: 10px 0px;
+padding:15px 10px 15px 50px;
+background-repeat: no-repeat;
+background-position: 10px center;
+}
+.info {
+color: #00529B;
+background-color: #BDE5F8;
+/*background-image: url('nav/info.png');*/
+}
+.success {
+color: #4F8A10;
+background-color: #DFF2BF;
+/*background-image:url('nav/success.png');*/
+}
+.warning {
+color: #9F6000;
+background-color: #FEEFB3;
+/*background-image: url('nav/warning.png');*/
+}
+.error {
+color: #D8000C;
+background-color: #FFBABA;
+/*background-image: url('nav/error.png');*/
+}

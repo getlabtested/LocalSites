@@ -1,0 +1,5 @@
+title: //div[@id='main-article-info']//h1
+body: //div[@id='content']
+strip: //li[@class='publication']
+
+test_url: http://www.guardian.co.uk/environment/2010/jul/15/bp-deepwater-oil-well-sealed

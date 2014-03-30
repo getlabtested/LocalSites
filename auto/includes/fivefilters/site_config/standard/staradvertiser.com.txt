@@ -1,0 +1,6 @@
+title: //h1[@id='storyTitle']
+
+body: //div[@class='storytext']
+strip_id_or_class: printDesc
+prune: no
+test_url: http://www.staradvertiser.com/news/hawaiinews/20101104_Finding_Irons_cause_of_death_will_take_weeks.html

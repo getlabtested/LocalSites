@@ -1,0 +1,6 @@
+#grab the actual content div
+body: //div[contains(@class,'rt-article')]
+
+#remove cart notifications hidden by default on regular display
+strip: //div/div[contains(@id, 'notification')]
+test_url: http://www.sourcebooks.com/next/sourcebooks-next-our-blog/1601-another-piece-of-the-e-puzzle-or-when-good-ebook-promotions-go-bad.html

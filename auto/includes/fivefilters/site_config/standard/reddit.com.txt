@@ -1,0 +1,7 @@
+strip_id_or_class: infobar
+strip_id_or_class: header
+strip_id_or_class: bottom
+strip_id_or_class: side
+strip_id_or_class: expando
+strip_id_or_class: flat-list
+test_url: http://www.reddit.com/r/politics/comments/edk8x/comcast_demands_toll_be_paid_for_traffic/
